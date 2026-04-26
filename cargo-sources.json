@@ -418,6 +418,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/getrandom/getrandom-0.4.2.crate",
+        "sha256": "0de51e6874e94e7bf76d726fc5d13ba782deca734ff60d5bb2fb2607c7406555",
+        "dest": "cargo/vendor/getrandom-0.4.2"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"0de51e6874e94e7bf76d726fc5d13ba782deca734ff60d5bb2fb2607c7406555\", \"files\": {}}",
+        "dest": "cargo/vendor/getrandom-0.4.2",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/gettext-rs/gettext-rs-0.7.7.crate",
         "sha256": "5d5857dc1b7f0fee86961de833f434e29494d72af102ce5355738c0664222bdf",
         "dest": "cargo/vendor/gettext-rs-0.7.7"
@@ -608,6 +621,19 @@
         "type": "inline",
         "contents": "{\"package\": \"5a25bd07084651c77bb6e7bce7d4cea8d9f98d210acee473e400a9106bc0ce50\", \"files\": {}}",
         "dest": "cargo/vendor/gtk4-sys-0.11.2",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/hashbrown/hashbrown-0.15.5.crate",
+        "sha256": "9229cfe53dfd69f0609a49f65461bd93001ea1ef889cd5529dd176593f5338a1",
+        "dest": "cargo/vendor/hashbrown-0.15.5"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"9229cfe53dfd69f0609a49f65461bd93001ea1ef889cd5529dd176593f5338a1\", \"files\": {}}",
+        "dest": "cargo/vendor/hashbrown-0.15.5",
         "dest-filename": ".cargo-checksum.json"
     },
     {
