@@ -49,8 +49,8 @@
         {
           "type": "git",
           "url": "https://github.com/Til7701/Puzzled.git",
-          "tag": "v1.2.0",
-          "commit": "2860ff561cd30ca05e44f825b42d5debe8dc7c01"
+          "tag": "v1.2.1",
+          "commit": "508540dbefee75ccb44010b267e72e6147491e3c"
         },
         "cargo-sources.json",
         {
